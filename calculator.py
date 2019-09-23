@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+"""
+Project Name: WSGI-calculator
+File Name: calculator.py
+Author: Travis Brackney
+Class: Python 230 - Self paced online
+Date Created 9/22/2019
+Python Version: 3.7.2
+"""
+
 """
 For your homework this week, you'll be creating a wsgi application of
 your own.
